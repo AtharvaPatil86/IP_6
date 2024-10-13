@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IP_6/static/css/main.e6c13ad2.css",
+    "main.js": "/IP_6/static/js/main.0e157c25.js",
+    "static/js/453.d73b0aaa.chunk.js": "/IP_6/static/js/453.d73b0aaa.chunk.js",
+    "static/media/atharva.jpg": "/IP_6/static/media/atharva.79b7c7aaf9649e500e04.jpg",
+    "index.html": "/IP_6/index.html",
+    "main.e6c13ad2.css.map": "/IP_6/static/css/main.e6c13ad2.css.map",
+    "main.0e157c25.js.map": "/IP_6/static/js/main.0e157c25.js.map",
+    "453.d73b0aaa.chunk.js.map": "/IP_6/static/js/453.d73b0aaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e157c25.js"
+  ]
+}
